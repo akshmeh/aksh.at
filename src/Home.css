@@ -1,0 +1,101 @@
+.person-div{
+    margin-bottom: 0;
+    max-height: 450px;
+    height: auto;
+    overflow: hidden;
+}
+
+.person-details{
+    margin:0 auto;
+    font-size: 2rem;
+    background-color: #353434;
+    overflow: visible;
+
+}
+.person-details p{  
+    margin-left: 10%;
+    margin-bottom: 0;
+}
+.avatar {
+    margin:2% auto;
+    margin-bottom: 0;
+    /* Rounded border */
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
+
+.avatar__image {
+    /* Rounded border */
+    border-radius: 50%;
+
+    /* Take full size */
+    height: 110%;
+    width: 103%;
+}
+.container-nav {
+    padding-top: 2%;
+    width:100%;
+    /* Background color */
+    background-color: #353434;
+
+    /* You can use gradient background color such as
+    background: linear-gradient(rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.1) 100%); */
+
+    /* Curved corners */
+    border-top-left-radius: 50% 40%;
+    border-top-right-radius: 50% 40%;
+}
+.container-desc {
+    padding-top: 2%;
+    margin:0;
+    width:100%;
+    /* Background color */
+    background-color: #353434;
+
+    /* You can use gradient background color such as
+    background: linear-gradient(rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.1) 100%); */
+
+    /* Curved corners */
+    border-bottom-left-radius: 50% 40%;
+    border-bottom-right-radius: 50% 40%;
+}
+.skills{
+    list-style-type:circle;
+    margin-bottom: 0;
+    font-size: x-large;
+}
+.social{
+    background-color: #353434;
+    margin-left: auto;
+    margin-right: auto;
+}
+.social img{
+    margin: 0 auto;
+    width:200px;
+    height:200px;
+}
+.card{
+    border:none;
+    background-color: #353434;
+
+}
+.card-img-top{
+    width: 80%;
+    align-self: center;
+    border-radius:20px;
+}
+@media (max-width: 576px) {
+    .avatar__image {
+      margin:2% 10%;
+      height:87%;
+      width:80%;
+    }
+    .skills{
+        margin-bottom: 10%;
+    }
+    .card-img-top{
+        width: 90%;
+        height:200px;
+    }
+  }
