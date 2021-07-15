@@ -13,17 +13,17 @@ export const Navbar = () => {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <Link className="nav-link active" aria-current="page" to="/">Home</Link>
+          <Link className="nav-link active" aria-current="page" to="/aksh.at/">Home</Link>
         </li>
         {/* <li className="nav-item">
-          <Link className="nav-link" to="/about">About</Link>
+          <Link className="nav-link" to="/aksh.at/about">About</Link>
         </li> */}
         <li className="nav-item">
-          <Link className="nav-link" to="/work">My Work</Link>
+          <Link className="nav-link" to="/aksh.at/work">My Work</Link>
         </li>
       </ul>
       <div className="d-flex">
-        <Link className="btn btn-secondary" to="/contact">Contact</Link>
+        <Link className="btn btn-secondary" to="/aksh.at/contact">Contact</Link>
       </div>
     </div>
   </div>
