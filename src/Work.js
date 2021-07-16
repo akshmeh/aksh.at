@@ -12,8 +12,9 @@ export const Work = () => {
         <img className="card-img-top my-3" src={ssdp} alt="ssdp"/>
         <div className="card-body">
             <h5 className="card-title">Shoezstop.com</h5>
-            <p className="card-text">it is an e-commerce website for shoes and  shoes accessories with database and user-friendly and it has some basic features or modules.</p>
-            <p className="card-text">Technologies use for delopment.</p>
+            <h6 className="card-text">Description:</h6>
+            <p className="card-text">it is my last year college project and this is e-commerce website for shoes and their accessories with database and UI/UX design and it has some basic features or modules.</p>
+            <h6 className="card-text">Technologies use for devlopment:</h6>
             <ul className="tech-use">
                 <br/>
             <p className="card-text">Frontend</p>
@@ -39,7 +40,8 @@ export const Work = () => {
         <img className="card-img-top my-3" src={hcmdp} alt="ssdp"/>
         <div className="card-body">
             <h5 className="card-title">HandyCraftoMania.com</h5>
-            <p className="card-text">This website devlop for small buisness realted to hand craft.</p>
+            <h6 className="card-text">Description:</h6>
+            <p className="card-text">This webiste design for small business for hand craft gifts. </p>
             <p className="card-text">Technologies use for devlopment.</p>
             <ul className="tech-use">
             <p className="card-text">Frontend</p>

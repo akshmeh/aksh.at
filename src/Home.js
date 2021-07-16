@@ -23,7 +23,7 @@ export const Home = () => {
                     <h4>
                     <br/>This is Akshat Mehta,
                     <br />I am a Web Devloper with skills of UI/Ux designing.
-                    <br />I have completed my Bachelor in Science degree under specializaton of Information Technology at UPG College, Vileparle.
+                    <br />I have completed my Bachelor in Science degree under specializaton of Information and Technology at UPG College, Vileparle.
                     <br/>
                     <br/>
                     </h4>
