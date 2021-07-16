@@ -12,6 +12,9 @@
     overflow: visible;
 
 }
+.bg-div{
+    background-color: #353434;
+}
 #droplet {
     background-color: #353434;
     margin-bottom:2%;
@@ -64,14 +67,14 @@
     border-bottom-left-radius: 200px;
     border-bottom-right-radius: 200px; */
     position: relative;
-    top:-25%;
-    left:3%;
+    top:-45%;
+    left:-106%;
     transform: none;
     -webkit-transform:rotate(-45deg);
 
     /* Take full size */
-    height: 155%;
-    width: 100%;
+    height: 200%;
+    width: 350%;
 }
 .container-nav {
     padding-top: 2%;
@@ -147,6 +150,9 @@
     font-size: 30px;
     margin-top: 40px;
   }
+  .prop{
+      z-index: 11;
+  }
 @media (max-width: 576px) {
     .avatar{
         margin-top: 25%;
@@ -155,10 +161,10 @@
     }
     .avatar__image {
       margin:2% 10%;
-      height:125%;
-      width:100%;
-      top:-20%;
-      left:-16%;
+      height:160%;
+      width:300%;
+      top:-30%;
+      left:-100%;
     }
     .skills{
         margin-bottom: 10%;
@@ -169,5 +175,11 @@
     }
     #droplet{
         margin-left:45%;
+    }
+    .cont-btn{
+        font-size: medium;
+        padding:2% 18%;
+        height:40px;
+        margin:0 22%;
     }
   }

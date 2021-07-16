@@ -31,7 +31,7 @@ export const Work = () => {
                 <li>MySQL</li>
             </ul>
             <br/><br/>
-            <Link className="btn btn-outline-light btn-md" npm run to="/aksh.at/work">Learn more</Link>
+            <Link className="btn btn-outline-light btn-md disabled" npm run to="/aksh.at/work">Learn more</Link>
             <p className="card-text"><small className="text-muted">Currently not hosted yet</small></p>
         </div>
         </div>
@@ -52,7 +52,7 @@ export const Work = () => {
                 <li>Instagram</li>
             </ul>
             <br/><br/>
-            <Link className="btn btn-outline-light btn-md" to="/aksh.at/work">Learn more</Link>
+            <Link className="btn btn-outline-light btn-md disabled" to="/aksh.at/work">Learn more</Link>
             <p className="card-text"><small className="text-muted">Currently not hosted yet</small></p>
             
         </div>
