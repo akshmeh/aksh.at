@@ -33,9 +33,14 @@
     -webkit-transform:rotate(45deg);
     box-shadow: 1px 1px 7px #1a1a1a;
 }
-.person-details p{  
-    margin-left: 10%;
+.pd{  
+    padding-left: 10%;
     margin-bottom: 0;
+    background-color: #353434;
+    color: white;
+}
+.pd p{
+    font-size: x-large;
 }
 .avatar {
     margin-top: 10%;
@@ -52,7 +57,7 @@
     -webkit-border-bottom-right-radius: 200px;
     -webkit-border-bottom-left-radius: 200px;
     transform: none;
-    -webkit-transform:rotate(45deg);
+    -webkit-transform:rotate(45deg) !important;
     height: 400px;
     width: 400px;
     overflow: hidden;
