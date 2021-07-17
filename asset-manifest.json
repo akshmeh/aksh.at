@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/aksh.at/static/css/main.93fed985.chunk.css",
-    "main.js": "/aksh.at/static/js/main.17f76403.chunk.js",
-    "main.js.map": "/aksh.at/static/js/main.17f76403.chunk.js.map",
+    "main.css": "/aksh.at/static/css/main.b351dce7.chunk.css",
+    "main.js": "/aksh.at/static/js/main.e93acfd3.chunk.js",
+    "main.js.map": "/aksh.at/static/js/main.e93acfd3.chunk.js.map",
     "runtime-main.js": "/aksh.at/static/js/runtime-main.43557f6a.js",
     "runtime-main.js.map": "/aksh.at/static/js/runtime-main.43557f6a.js.map",
     "static/css/2.ae9e5f60.chunk.css": "/aksh.at/static/css/2.ae9e5f60.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.98c48abd.chunk.js.map": "/aksh.at/static/js/3.98c48abd.chunk.js.map",
     "index.html": "/aksh.at/index.html",
     "static/css/2.ae9e5f60.chunk.css.map": "/aksh.at/static/css/2.ae9e5f60.chunk.css.map",
-    "static/css/main.93fed985.chunk.css.map": "/aksh.at/static/css/main.93fed985.chunk.css.map",
+    "static/css/main.b351dce7.chunk.css.map": "/aksh.at/static/css/main.b351dce7.chunk.css.map",
     "static/js/2.49b0ae52.chunk.js.LICENSE.txt": "/aksh.at/static/js/2.49b0ae52.chunk.js.LICENSE.txt",
     "static/media/facebook.1bd87332.jpeg": "/aksh.at/static/media/facebook.1bd87332.jpeg",
     "static/media/hcm.1299b90c.jpg": "/aksh.at/static/media/hcm.1299b90c.jpg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.43557f6a.js",
     "static/css/2.ae9e5f60.chunk.css",
     "static/js/2.49b0ae52.chunk.js",
-    "static/css/main.93fed985.chunk.css",
-    "static/js/main.17f76403.chunk.js"
+    "static/css/main.b351dce7.chunk.css",
+    "static/js/main.e93acfd3.chunk.js"
   ]
 }
