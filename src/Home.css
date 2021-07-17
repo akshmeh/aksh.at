@@ -155,9 +155,6 @@
     font-size: 30px;
     margin-top: 40px;
   }
-  .prop{
-      z-index: 11;
-  }
 @media (max-width: 576px) {
     .avatar{
         margin-top: 25%;
@@ -188,3 +185,14 @@
         margin:0 22%;
     }
   }
+  @media (max-width: 768px) {
+      .avatar{
+          margin-top: 30%;
+      }
+      .cont-btn{
+        font-size: medium;
+        padding:1% 17%;
+        height:40px;
+        margin:0 27%;
+      }
+   }

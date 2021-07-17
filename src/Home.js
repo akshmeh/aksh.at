@@ -117,7 +117,7 @@ export const Home = () => {
           >
             <div className="col">
               <div className="card h-100">
-                <h5 class="card-title text-white text-center mb-4">Shoezstop.com</h5>
+                <h5 className="card-title text-white text-center mb-4">Shoezstop.com</h5>
                 <img src={ss} className="card-img-top" alt="ss" />
                 <div className="card-body text-white text-center">
                   <br />
@@ -132,7 +132,7 @@ export const Home = () => {
             </div>
             <div className="col">
               <div className="card h-100">
-                <h5 class="card-title text-white text-center mb-4">
+                <h5 className="card-title text-white text-center mb-4">
                   HandyCraftoMania.com
                 </h5>
                 <img src={hcm} className="card-img-top" alt="ss" />
@@ -176,10 +176,10 @@ export const Home = () => {
           <br />
           <br />
         </div>
-        <div className="social row row-cols-1 row-cols-md-3 row-cols-lg-4 g-2" >
+        <div className="social row row-cols-1 row-cols-md-2 row-cols-lg-4 g-2" >
           <div className="col" data-aos="fade-up">
             <div className="card h-100">
-              <h5 class="card-title text-white text-center">Facebook</h5>
+              <h5 className="card-title text-white text-center">Facebook</h5>
               <p className="text-white text-center">Scan QR code</p>
               <img src={facebook} className="card-img-top" alt="..." />
               <div className="card-body text-white text-center">
@@ -197,7 +197,7 @@ export const Home = () => {
           </div>
           <div className="col" data-aos="fade-up">
             <div className="card h-100">
-              <h5 class="card-title text-white text-center">Instagram</h5>
+              <h5 className="card-title text-white text-center">Instagram</h5>
               <p className="text-white text-center">Scan QR code</p>
 
               <img src={instagram} className="card-img-top" alt="..." />
@@ -216,7 +216,7 @@ export const Home = () => {
           </div>
           <div className="col" data-aos="fade-up">
             <div className="card h-100">
-              <h5 class="card-title text-white text-center">Snapchat</h5>
+              <h5 className="card-title text-white text-center">Snapchat</h5>
               <p className="text-white text-center">Scan QR code</p>
 
               <img src={snapchat} className="card-img-top" alt="..." />
@@ -235,7 +235,7 @@ export const Home = () => {
           </div>
           <div className="col" data-aos="fade-up">
             <div className="card h-100">
-              <h5 class="card-title text-white text-center">Linkedin</h5>
+              <h5 className="card-title text-white text-center">Linkedin</h5>
               <p className="text-white text-center">Scan QR code</p>
 
               <img src={linkedin} className="card-img-top" alt="..." />
@@ -290,7 +290,7 @@ export const Home = () => {
                   width="23"
                   height="23"
                   fill="currentColor"
-                  class="bi bi-envelope"
+                  className="bi bi-envelope"
                   viewBox="0 0 16 16"
                 >
                   <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2zm13 2.383-4.758 2.855L15 11.114v-5.73zm-.034 6.878L9.271 8.82 8 9.583 6.728 8.82l-5.694 3.44A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.739zM1 11.114l4.758-2.876L1 5.383v5.73z" />
