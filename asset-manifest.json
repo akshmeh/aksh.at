@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/aksh.at/static/css/main.f0f47992.chunk.css",
-    "main.js": "/aksh.at/static/js/main.7f0d0692.chunk.js",
-    "main.js.map": "/aksh.at/static/js/main.7f0d0692.chunk.js.map",
-    "runtime-main.js": "/aksh.at/static/js/runtime-main.5dbf658d.js",
-    "runtime-main.js.map": "/aksh.at/static/js/runtime-main.5dbf658d.js.map",
-    "static/js/2.59da6ce2.chunk.js": "/aksh.at/static/js/2.59da6ce2.chunk.js",
-    "static/js/2.59da6ce2.chunk.js.map": "/aksh.at/static/js/2.59da6ce2.chunk.js.map",
-    "static/js/3.755338b9.chunk.js": "/aksh.at/static/js/3.755338b9.chunk.js",
-    "static/js/3.755338b9.chunk.js.map": "/aksh.at/static/js/3.755338b9.chunk.js.map",
+    "main.css": "/aksh.at/static/css/main.93fed985.chunk.css",
+    "main.js": "/aksh.at/static/js/main.17f76403.chunk.js",
+    "main.js.map": "/aksh.at/static/js/main.17f76403.chunk.js.map",
+    "runtime-main.js": "/aksh.at/static/js/runtime-main.43557f6a.js",
+    "runtime-main.js.map": "/aksh.at/static/js/runtime-main.43557f6a.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/aksh.at/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.49b0ae52.chunk.js": "/aksh.at/static/js/2.49b0ae52.chunk.js",
+    "static/js/2.49b0ae52.chunk.js.map": "/aksh.at/static/js/2.49b0ae52.chunk.js.map",
+    "static/js/3.98c48abd.chunk.js": "/aksh.at/static/js/3.98c48abd.chunk.js",
+    "static/js/3.98c48abd.chunk.js.map": "/aksh.at/static/js/3.98c48abd.chunk.js.map",
     "index.html": "/aksh.at/index.html",
-    "static/css/main.f0f47992.chunk.css.map": "/aksh.at/static/css/main.f0f47992.chunk.css.map",
-    "static/js/2.59da6ce2.chunk.js.LICENSE.txt": "/aksh.at/static/js/2.59da6ce2.chunk.js.LICENSE.txt",
+    "static/css/2.ae9e5f60.chunk.css.map": "/aksh.at/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.93fed985.chunk.css.map": "/aksh.at/static/css/main.93fed985.chunk.css.map",
+    "static/js/2.49b0ae52.chunk.js.LICENSE.txt": "/aksh.at/static/js/2.49b0ae52.chunk.js.LICENSE.txt",
     "static/media/facebook.1bd87332.jpeg": "/aksh.at/static/media/facebook.1bd87332.jpeg",
     "static/media/hcm.1299b90c.jpg": "/aksh.at/static/media/hcm.1299b90c.jpg",
     "static/media/hcmdp.c9189301.PNG": "/aksh.at/static/media/hcmdp.c9189301.PNG",
@@ -22,9 +24,10 @@
     "static/media/ssdp.8edb2f94.PNG": "/aksh.at/static/media/ssdp.8edb2f94.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.5dbf658d.js",
-    "static/js/2.59da6ce2.chunk.js",
-    "static/css/main.f0f47992.chunk.css",
-    "static/js/main.7f0d0692.chunk.js"
+    "static/js/runtime-main.43557f6a.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.49b0ae52.chunk.js",
+    "static/css/main.93fed985.chunk.css",
+    "static/js/main.17f76403.chunk.js"
   ]
 }
