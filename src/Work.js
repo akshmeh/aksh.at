@@ -19,8 +19,10 @@ export const Work = () => {
         <div className="card-body">
             <h5 className="card-title">Shoezstop.com</h5>
             <h6 className="card-text">Description:</h6>
-            <p className="card-text">it is my last year college project and this is e-commerce website for shoes and their accessories with database and UI/UX design and it has some basic features or modules.</p>
-            <h6 className="card-text">Technologies use for devlopment:</h6>
+            <p className="card-text">May I present my final year project which is an E-commerce website that sells footwear and its accesories.<br/>
+            It is an user-friendly UI/UX designed website. 
+            </p>
+            <h6 className="card-text">Technologies used for the devlopment:</h6>
             <ul className="tech-use">
                 <br/>
             <p className="card-text">Frontend</p>
@@ -47,8 +49,8 @@ export const Work = () => {
         <div className="card-body">
             <h5 className="card-title">HandyCraftoMania.com</h5>
             <h6 className="card-text">Description:</h6>
-            <p className="card-text">This webiste design for small business for hand craft gifts. </p>
-            <p className="card-text">Technologies use for devlopment.</p>
+            <p className="card-text">It is a simple website for small business which sells hand made gifts.</p>
+            <p className="card-text">Technologies used for the devlopment.</p>
             <ul className="tech-use">
             <p className="card-text">Frontend</p>
             <hr/>

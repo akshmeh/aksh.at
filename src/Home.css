@@ -180,12 +180,12 @@
     }
     .cont-btn{
         font-size: medium;
-        padding:2% 18%;
+        padding:2% 16%;
         height:40px;
         margin:0 22%;
     }
   }
-  @media (max-width: 768px) {
+  @media (min-width:576px) and (max-width: 768px) {
       .avatar{
           margin-top: 30%;
       }

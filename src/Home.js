@@ -179,6 +179,25 @@ export const Home = () => {
         <div className="social row row-cols-1 row-cols-md-2 row-cols-lg-4 g-2" >
           <div className="col" data-aos="fade-up">
             <div className="card h-100">
+              <h5 className="card-title text-white text-center">Linkedin</h5>
+              <p className="text-white text-center">Scan QR code</p>
+
+              <img src={linkedin} className="card-img-top" alt="..." />
+              <div className="card-body text-white text-center">
+                <h6>OR</h6>
+                <br />
+                <Link
+                  className="btn btn-outline-light btn-lg"
+                  target="_blank"
+                  to="/aksh.at/linkedin"
+                >
+                  Click Here
+                </Link>
+              </div>
+            </div>
+          </div>
+          <div className="col" data-aos="fade-up">
+            <div className="card h-100">
               <h5 className="card-title text-white text-center">Facebook</h5>
               <p className="text-white text-center">Scan QR code</p>
               <img src={facebook} className="card-img-top" alt="..." />
@@ -227,25 +246,6 @@ export const Home = () => {
                   className="btn btn-outline-light btn-lg"
                   target="_blank"
                   to="/aksh.at/snapchat"
-                >
-                  Click Here
-                </Link>
-              </div>
-            </div>
-          </div>
-          <div className="col" data-aos="fade-up">
-            <div className="card h-100">
-              <h5 className="card-title text-white text-center">Linkedin</h5>
-              <p className="text-white text-center">Scan QR code</p>
-
-              <img src={linkedin} className="card-img-top" alt="..." />
-              <div className="card-body text-white text-center">
-                <h6>OR</h6>
-                <br />
-                <Link
-                  className="btn btn-outline-light btn-lg"
-                  target="_blank"
-                  to="/aksh.at/linkedin"
                 >
                   Click Here
                 </Link>
