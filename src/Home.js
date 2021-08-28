@@ -233,7 +233,7 @@ export const Home = () => {
               </div>
             </div>
           </div>
-          {/* <div className="col" data-aos="fade-up">
+          <div className="col" data-aos="fade-up">
             <div className="card h-100">
               <h5 className="card-title text-white text-center">Snapchat</h5>
               <p className="text-white text-center">Scan QR code</p>
@@ -251,7 +251,7 @@ export const Home = () => {
                 </Link>
               </div>
             </div>
-          </div> */}
+          </div>
         </div>
         <div className="container-desc mb-5">
           <br />
