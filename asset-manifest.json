@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aksh.at/static/css/main.dbb726cc.chunk.css",
-    "main.js": "/aksh.at/static/js/main.e22d9c9b.chunk.js",
-    "main.js.map": "/aksh.at/static/js/main.e22d9c9b.chunk.js.map",
+    "main.js": "/aksh.at/static/js/main.ded1c2b1.chunk.js",
+    "main.js.map": "/aksh.at/static/js/main.ded1c2b1.chunk.js.map",
     "runtime-main.js": "/aksh.at/static/js/runtime-main.43557f6a.js",
     "runtime-main.js.map": "/aksh.at/static/js/runtime-main.43557f6a.js.map",
     "static/css/2.ae9e5f60.chunk.css": "/aksh.at/static/css/2.ae9e5f60.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.ae9e5f60.chunk.css",
     "static/js/2.49b0ae52.chunk.js",
     "static/css/main.dbb726cc.chunk.css",
-    "static/js/main.e22d9c9b.chunk.js"
+    "static/js/main.ded1c2b1.chunk.js"
   ]
 }
