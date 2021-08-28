@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aksh.at/static/css/main.dbb726cc.chunk.css",
-    "main.js": "/aksh.at/static/js/main.318f805d.chunk.js",
-    "main.js.map": "/aksh.at/static/js/main.318f805d.chunk.js.map",
+    "main.js": "/aksh.at/static/js/main.197c47a2.chunk.js",
+    "main.js.map": "/aksh.at/static/js/main.197c47a2.chunk.js.map",
     "runtime-main.js": "/aksh.at/static/js/runtime-main.43557f6a.js",
     "runtime-main.js.map": "/aksh.at/static/js/runtime-main.43557f6a.js.map",
     "static/css/2.ae9e5f60.chunk.css": "/aksh.at/static/css/2.ae9e5f60.chunk.css",
@@ -15,19 +15,19 @@
     "static/css/main.dbb726cc.chunk.css.map": "/aksh.at/static/css/main.dbb726cc.chunk.css.map",
     "static/js/2.49b0ae52.chunk.js.LICENSE.txt": "/aksh.at/static/js/2.49b0ae52.chunk.js.LICENSE.txt",
     "static/media/facebook.1bd87332.jpeg": "/aksh.at/static/media/facebook.1bd87332.jpeg",
-    "static/media/hcm.1299b90c.jpg": "/aksh.at/static/media/hcm.1299b90c.jpg",
+    "static/media/hcm.0c5c70d0.jpg": "/aksh.at/static/media/hcm.0c5c70d0.jpg",
     "static/media/hcmdp.c9189301.PNG": "/aksh.at/static/media/hcmdp.c9189301.PNG",
     "static/media/instagram.74429350.jpeg": "/aksh.at/static/media/instagram.74429350.jpeg",
     "static/media/linkedin.d79d0601.jpeg": "/aksh.at/static/media/linkedin.d79d0601.jpeg",
-    "static/media/person.7c91dce1.jpg": "/aksh.at/static/media/person.7c91dce1.jpg",
+    "static/media/person.3b3161e3.jpg": "/aksh.at/static/media/person.3b3161e3.jpg",
     "static/media/snapchat.be8cb618.jpeg": "/aksh.at/static/media/snapchat.be8cb618.jpeg",
-    "static/media/ssdp.8edb2f94.PNG": "/aksh.at/static/media/ssdp.8edb2f94.PNG"
+    "static/media/ssdp.5a09e4b1.PNG": "/aksh.at/static/media/ssdp.5a09e4b1.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.43557f6a.js",
     "static/css/2.ae9e5f60.chunk.css",
     "static/js/2.49b0ae52.chunk.js",
     "static/css/main.dbb726cc.chunk.css",
-    "static/js/main.318f805d.chunk.js"
+    "static/js/main.197c47a2.chunk.js"
   ]
 }
