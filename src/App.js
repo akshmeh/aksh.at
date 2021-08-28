@@ -41,10 +41,10 @@ function App() {
               window.location.href = 'https://instagram.com/akshatmehta74?utm_medium=copy_link'; 
               return null;
           }}/>
-          <Route path='/aksh.at/snapchat' component={() => { 
+          {/* <Route path='/aksh.at/snapchat' component={() => { 
               window.location.href = 'https://www.snapchat.com/add/rishimehta74744'; 
               return null;
-          }}/>
+          }}/> */}
           <Route path='/aksh.at/linkedin' component={() => { 
               window.location.href = 'https://www.linkedin.com/in/akshat-mehta-981100172'; 
               return null;
