@@ -34,7 +34,7 @@ function App() {
             <Contact/>
           </Route> */}
           <Route path='/aksh.at/facebook' component={() => { 
-              window.location.href = 'https://www.facebook.com/'; 
+              window.location.href = 'https://www.facebook.com/akshat.mehta.522'; 
               return null;
           }}/>
           <Route path='/aksh.at/instagram' component={() => { 

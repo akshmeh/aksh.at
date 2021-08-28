@@ -188,7 +188,7 @@ export const Home = () => {
                 <br />
                 <Link
                   className="btn btn-outline-light btn-lg"
-                  target="_blank"
+                  
                   to="/aksh.at/linkedin"
                 >
                   Click Here
@@ -206,7 +206,7 @@ export const Home = () => {
                 <br />
                 <Link
                   className="btn btn-outline-light btn-lg"
-                  target="_blank"
+                  
                   to="/aksh.at/facebook"
                 >
                   Click Here
@@ -225,7 +225,7 @@ export const Home = () => {
                 <br />
                 <Link
                   className="btn btn-outline-light btn-lg"
-                  target="_blank"
+                  
                   to="/aksh.at/instagram"
                 >
                   Click Here
@@ -244,7 +244,7 @@ export const Home = () => {
                 <br />
                 <Link
                   className="btn btn-outline-light btn-lg"
-                  target="_blank"
+                  
                   to="/aksh.at/snapchat"
                 >
                   Click Here
